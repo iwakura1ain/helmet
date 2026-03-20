@@ -1,4 +1,6 @@
-* HELMET PROJECT
+* Desc
+
+* Video
 [[./demo.gif]]
 Hobby project powered by a raspberry pi and a microbit. Uses an LED strip matrix to show emotions and sensors to detect head angle to runs servo motors that control the ears.
 
